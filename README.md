@@ -29,7 +29,7 @@ Bitcoin markets are defined by extreme heteroscedasticity and non-linear trends.
 * **Iterative Differencing:** An interactive **Augmented Dickey-Fuller (ADF)** engine allows users to stabilize the mean by applying first and seasonal differencing ($d, D$).
 * **Model Resilience:** * **Prophet:** Manages market outliers and "Black Swan" events using piecewise growth models.
     * **SARIMA:** Filters seasonal noise through moving average (MA) and auto-regressive (AR) components.
-    * **Auto-ARIMA (StatsForecast):** Automatically optimizes hyper-parameters based on AIC/BIC scores for maximum accuracy.
+    * **Auto-ARIMA (StatsForecast):** Automatically optimizes hyper-parameters.
 
  ---
 
