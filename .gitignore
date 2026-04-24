@@ -1,0 +1,7 @@
+git add .venv/
+__pycache__/
+.streamlit/secrets.toml
+*.csv
+*.zip
+*.pyc
+.ipynb_checkpoints/
