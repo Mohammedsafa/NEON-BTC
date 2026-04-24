@@ -1,7 +1,6 @@
 # 🚀 NEON-BTC: Advanced Cryptocurrency Forecasting Portal
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](https://share.streamlit.io/)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.8+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **NEON-BTC** is a sophisticated forecasting ecosystem designed to analyze and predict Bitcoin (BTC) price movements. Built with a modular architecture, it combines statistical rigor with machine learning to navigate the high volatility of the crypto market.
