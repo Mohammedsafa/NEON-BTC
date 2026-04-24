@@ -20,12 +20,6 @@ import numpy as np
 import pandas as pd
 
 
-@st.fragment
-def display_historical_trend(df, column):
-    preview_df = df[[column]]
-    fig = create_plot(preview_df, column)
-    return fig
-
 render_header()
 initialize_session_state()
 
