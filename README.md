@@ -63,7 +63,7 @@ Bitcoin markets are defined by extreme heteroscedasticity and non-linear trends.
 
 ---
 
-## ⚙️ 7. Setup & Installation
+## ⚙️ 6. Setup & Installation
 
 
 ### Install uv
@@ -87,7 +87,7 @@ uv pip install -r requirements.txt
 
 ---
 
-##  8. Execution
+##  7. Execution
 To launch the portal and begin your analysis:
 
 ```bash
